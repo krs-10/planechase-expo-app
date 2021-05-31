@@ -1,0 +1,12 @@
+{
+  "name": "planechase-app",
+  "displayName": "planechase-app",
+  "expo": {
+    "name": "planechase-app",
+    "slug": "planechase-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
